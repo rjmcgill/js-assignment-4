@@ -1,0 +1,22 @@
+{
+  "products" : [
+    {
+      "name" : "Nothing",
+      "price" : 6.98,
+      "details" : "It's literally nothing",
+      "image" : "nothing.jpg"
+    },
+    {
+      "name" : "Air Blaster",
+      "price" : 24.99,
+      "details" : "It's like a fan gun",
+      "image" : "fan-blaster.jpg"
+    },
+    {
+      "name" : "Angry Juliette Lewis Mousepad",
+      "price" : 7.45,
+      "details" : "It's a mousepad that has Juliette Lewis on it. She's angry",
+      "image" : "juliette-lewis-mouse-pad.jpg"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+body {
+  margin: 1em;
+  background-color: #6495ED;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.productStuff img {
+  width: 25%;
+  height: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-style: inset;
+}
+
+.productStuff {
+  margin-top: 5%;
+  text-align: center;
+  color: white;
+}
+
+.productStuff h2 {
+  border-bottom: solid;
+  margin-left: 35%;
+  margin-right: 35%;
+}
